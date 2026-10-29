@@ -8,3 +8,4 @@ These independent projects show how I approach business applications, data quali
 - [CSV Import Review](https://github.com/PatrickSchaller/csv-import-review): Python catalog validation with clear rejection reports.
 - [Reliable Sync](https://github.com/PatrickSchaller/reliable-sync): a .NET integration example with retries, replay protection, and durable checkpoints.
 - [Label Review](https://github.com/PatrickSchaller/label-comparison-demo): AI-assisted label extraction, comparison, and human review in .NET.
+- [Workflow Workbench](https://github.com/PatrickSchaller/workflow-workbench): a visual workflow designer and .NET runner with parallel approvals, versioned rules, and durable history.
