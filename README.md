@@ -1,7 +1,8 @@
 I'm a .NET developer. Most of my professional work has been on private, internal business systems.
 
-I'm building independent examples in .NET, Python, and React.
+These independent projects show how I approach business applications, data quality, and integrations.
 
-[Inventory Receiving](https://github.com/PatrickSchaller/inventory-receiving) is a small .NET and React app demonstrating safe stock updates, duplicate receipt protection, and movement history.
+- [Inventory Receiving](https://github.com/PatrickSchaller/inventory-receiving): a .NET and React app with safe stock updates and movement history.
 
-[CSV Import Review](https://github.com/PatrickSchaller/csv-import-review) is a Python tool for validating catalogs and explaining rejected rows.
+- [CSV Import Review](https://github.com/PatrickSchaller/csv-import-review): Python catalog validation with clear rejection reports.
+- [Reliable Sync](https://github.com/PatrickSchaller/reliable-sync): a .NET integration example with retries, replay protection, and durable checkpoints.
