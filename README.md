@@ -1,5 +1,7 @@
 I'm a .NET developer. Most of my professional work has been on private, internal business systems.
 
+[Visit my portfolio](https://patrickschaller.github.io/)
+
 These independent projects show how I approach business applications, data quality, integrations, and AI-assisted review.
 
 - [Inventory Receiving](https://github.com/PatrickSchaller/inventory-receiving): a .NET and React app with safe stock updates and movement history.
